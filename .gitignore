@@ -1,3 +1,15 @@
 *_state_test
 Builds/LinuxMakefile/build/intermediate/
+!Builds/VisualStudio2015/
+Builds/VisualStudio2015/*
+!Builds/VisualStudio2015/x64/
+Builds/VisualStudio2015/x64/*
+!Builds/VisualStudio2015/x64/Debug
+Builds/VisualStudio2015/x64/Debug/*
+!Builds/VisualStudio2015/x64/Debug/Standalone Plugin
+Builds/VisualStudio2015/x64/Debug/Standalone Plugin/*
+!Builds/VisualStudio2015/x64/Debug/Standalone Plugin/*.exe
+!Builds/VisualStudio2015/x64/Debug/VST3
+Builds/VisualStudio2015/x64/Debug/VST3/*
+!Builds/VisualStudio2015/x64/Debug/VST3/*.vst3
 Recall_DBG.a
