@@ -1,7 +1,7 @@
 *_state_test
 Builds/LinuxMakefile/build/intermediate/
+Builds/LinuxMakefile/build/*.a
 !Builds/VisualStudio2015/
 Builds/VisualStudio2015/*
 !Builds/VisualStudio2015/**/*.exe
 !Builds/VisualStudio2015/**/*.vst3
-Recall_DBG.a
