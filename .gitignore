@@ -1,4 +1,4 @@
-*_state_test
+Test states/
 Builds/LinuxMakefile/build/intermediate/
 Builds/LinuxMakefile/build/*.a
 !Builds/VisualStudio2015/
