@@ -5,3 +5,6 @@ Builds/LinuxMakefile/build/*.a
 Builds/VisualStudio2015/*
 !Builds/VisualStudio2015/**/*.exe
 !Builds/VisualStudio2015/**/*.vst3
+!Builds/MacOSX/
+Builds/MacOSX/*
+!Builds/MacOSX/**/build

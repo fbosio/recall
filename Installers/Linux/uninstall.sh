@@ -1,5 +1,5 @@
 #!/bin/sh
 app=Recall_Linux_DBG
-rm ~/Desktop/$app
-rm -r ~/.vst3/$app.vst3 
-rmdir ~/.vst3/
+rm "$HOME/Desktop/$app"
+rm -r "$HOME/.vst3/$app.vst3 "
+rmdir "$HOME/.vst3/"
